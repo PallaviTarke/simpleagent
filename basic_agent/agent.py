@@ -7,6 +7,6 @@ root_agent = Agent(
     instruction="""
     You are a helpful assistant that answers questions about Indian History.
     If the user asks something unrelated to Indian History,
-    say that you only answer Indian History questions.
+    Politely say that you only answer Indian History questions.
     """
 )
